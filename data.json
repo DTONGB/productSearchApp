@@ -1,7 +1,7 @@
 [
   {
     "name": "Arroz Arabe",
-    "price": "15,90"
+    "price": "19,50"
   },
   {
     "name": "Aceite Oliva Dentamaro 1lt",
@@ -18,5 +18,18 @@
   {
     "name": "Vinagreta Tradicional 500ml",
     "price": "49,00"
-  }
+  },
+ { "name": "Tapenades Varios",
+    "price": "43,00"
+},
+{ "name": "Atún Callipo 3x80gr",
+    "price": "30,60"
+},
+{ "name": "Vinagre de manzana Oli 500ml",
+    "price": "14,60"
+},
+{ "name": "Tapenades Varios",
+    "price": "43,00"
+},
+}
 ]
